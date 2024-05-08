@@ -1,2 +1,2 @@
 # toast
-assembler project
+c64 assembler project
